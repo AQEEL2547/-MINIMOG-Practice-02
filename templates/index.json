@@ -1,0 +1,495 @@
+{
+  "sections": {
+    "2b1913d4-3e28-4015-ad71-841a57c3f78e": {
+      "type": "slider",
+      "blocks": {
+        "template--18655195529497__2b1913d4-3e28-4015-ad71-841a57c3f78e-16816716851c6ffc9e-0": {
+          "type": "slider_item",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/slide_reailers.jpg",
+            "mb_background": "shopify:\/\/shop_images\/FAeQMDtUYAE7-lc.jpg",
+            "content_in_container": false,
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "text_size": "large",
+            "text_color": "white",
+            "subheading": "",
+            "title": "KMART",
+            "description": "<p>A Goal to Make Your Shopping More Easier.<\/p>",
+            "image_link": "",
+            "button_text": "More Details",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "show_footer": true,
+            "footer_alignment": "end",
+            "footer_text": "KMART",
+            "footer_button": "VISIT MORE",
+            "footer_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "template--18655195529497__2b1913d4-3e28-4015-ad71-841a57c3f78e-16816716851c6ffc9e-0"
+      ],
+      "settings": {
+        "container": "w-full",
+        "slideshow_height": "adapt",
+        "show_overlay": true,
+        "dots_position": "bottom",
+        "dots_color": "dark",
+        "show_dots": false,
+        "show_arrows": false,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "use_content_above": true,
+        "custom_class": ""
+      }
+    },
+    "16600290314092d80c": {
+      "type": "icon-box",
+      "blocks": {
+        "16600290310a728499-0": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-truck-100.png",
+            "image_by_url": "",
+            "title": "Free Shipping Worldwide",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16600290310a728499-1": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-customer-support-100.png",
+            "image_by_url": "",
+            "title": "24\/7 Customer Support",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16600290310a728499-2": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-money-100.png",
+            "image_by_url": "",
+            "title": "All Payments Acceptable",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "ff102a06-e2cd-4745-92fc-c902c55701bc": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-easy-return-100.png",
+            "image_by_url": "",
+            "title": "14-Days Easy Return",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "16600290310a728499-0",
+        "16600290310a728499-1",
+        "16600290310a728499-2",
+        "ff102a06-e2cd-4745-92fc-c902c55701bc"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "left",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "item_per_row": 4,
+        "item_gap": 30,
+        "item_gap_mobile": 6,
+        "card_style": "horizontal",
+        "image_max_width": "45px",
+        "content_alignment": "start",
+        "hover_effect": "none",
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "use_scroll_mobile": false,
+        "use_grid_column_mb": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "section__flush-top section__flush-bottom"
+      }
+    },
+    "1659587158ce41b7ac": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Hot Selling Items",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "collection": "hot-selling-items",
+        "enable_flashsale": true,
+        "show_countdown": true,
+        "product_to_show": 12,
+        "items_per_row": 6,
+        "item_gap": 30,
+        "pcard_layout": "",
+        "pcard_image_ratio": "",
+        "show_vendor": false,
+        "hide_title": false,
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": true,
+        "button_type": "link",
+        "button_text": "SHOP NOW",
+        "button_style": "sf__btn-secondary",
+        "button_size": "",
+        "infinite_load": false,
+        "max_page_load": 3,
+        "use_scroll_mobile": false,
+        "item_gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "47b8148f-8361-4b66-9f10-81bb68f94ff9": {
+      "type": "featured-product-slider",
+      "blocks": {
+        "template--18655195529497__47b8148f-8361-4b66-9f10-81bb68f94ff9-1681677766d2eddefa-0": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "astronaut-sky-projector"
+          }
+        },
+        "template--18655195529497__47b8148f-8361-4b66-9f10-81bb68f94ff9-1681677766d2eddefa-1": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "cute-cat-air-humidifier"
+          }
+        },
+        "template--18655195529497__47b8148f-8361-4b66-9f10-81bb68f94ff9-1681677766d2eddefa-2": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "cute-crawling-crab-fun-toy"
+          }
+        },
+        "c3850c5c-3bb5-497c-b365-c5b249dae5a2": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "phone-case-with-timer-lock"
+          }
+        },
+        "980d7c97-bf53-4ae1-bcf7-5e4a9bf1840f": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "led-motion-sensor-night-light"
+          }
+        },
+        "d2c1e13c-1fb7-4e02-9607-c10666f1132d": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "waterproof-bluetooth-shower-speaker"
+          }
+        },
+        "bb53ea5c-4d22-4e31-85b9-7f6ded6178d1": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "pet-hair-remover"
+          }
+        },
+        "e5c166dd-3afa-4e9c-b33b-780c0ec55894": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "chopping-set-slicer"
+          }
+        },
+        "0b4e24c3-94de-41c3-acce-bc973ff1b800": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "easy-spin-cutter-vegetables-cutter"
+          }
+        },
+        "dd1ae4ac-df5a-43e9-9663-3aff409bdd36": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "simple-fruit-press-squeezer-citrus-extractor-tool"
+          }
+        },
+        "247acb56-fc79-4e2a-b1b6-db682678876c": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "vegetable-cutter-set"
+          }
+        },
+        "222164cc-b4a0-442d-9f23-b8de1a42865d": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "multi-function-vegetable-peeler"
+          }
+        },
+        "82e3a6af-a5b7-469a-af59-389a62fe9668": {
+          "type": "product",
+          "settings": {
+            "heading": "",
+            "description": "",
+            "product": "vegetables-grater"
+          }
+        }
+      },
+      "block_order": [
+        "template--18655195529497__47b8148f-8361-4b66-9f10-81bb68f94ff9-1681677766d2eddefa-0",
+        "template--18655195529497__47b8148f-8361-4b66-9f10-81bb68f94ff9-1681677766d2eddefa-1",
+        "template--18655195529497__47b8148f-8361-4b66-9f10-81bb68f94ff9-1681677766d2eddefa-2",
+        "c3850c5c-3bb5-497c-b365-c5b249dae5a2",
+        "980d7c97-bf53-4ae1-bcf7-5e4a9bf1840f",
+        "d2c1e13c-1fb7-4e02-9607-c10666f1132d",
+        "bb53ea5c-4d22-4e31-85b9-7f6ded6178d1",
+        "e5c166dd-3afa-4e9c-b33b-780c0ec55894",
+        "0b4e24c3-94de-41c3-acce-bc973ff1b800",
+        "dd1ae4ac-df5a-43e9-9663-3aff409bdd36",
+        "247acb56-fc79-4e2a-b1b6-db682678876c",
+        "222164cc-b4a0-442d-9f23-b8de1a42865d",
+        "82e3a6af-a5b7-469a-af59-389a62fe9668"
+      ],
+      "settings": {
+        "heading": "Trending products",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "image_placement": "left",
+        "slide_autoplay": true,
+        "show_navigation": true,
+        "show_pagination": false,
+        "autorotate_speed": 2,
+        "pcard_layout": "",
+        "pcard_alignment": "left",
+        "pcard_image_ratio": "1\/1",
+        "show_vendor": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "16599437071ec5779e": {
+      "type": "custom-content",
+      "blocks": {
+        "e22d1da2-48a1-426d-8325-2ea6cd01b2f5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ef5d3c7f-fa91-4b82-b567-50e92bc83fe9_720x_34802c1c-e168-4c24-bdcb-332316148728.webp",
+            "link": "shopify:\/\/products\/astronaut-sky-projector",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "82f0e67c-e016-4810-8c32-d0655409edb7": {
+          "type": "text",
+          "settings": {
+            "title": "Astronaut Sky Projector",
+            "subheading": "",
+            "text": "<p>Astronaut Night Sky Star Projector is an amazing projection lamp that features a unique and novel astronaut appearance. One of the major benefits of this specific model is the ability to help calm your mind and drift away to a deep sleep.<\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "More Details",
+            "button_link": "shopify:\/\/products\/astronaut-sky-projector",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "e22d1da2-48a1-426d-8325-2ea6cd01b2f5",
+        "82f0e67c-e016-4810-8c32-d0655409edb7"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 100,
+        "use_scroll_mobile": false,
+        "gap_mobile": 31,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf__custom-content-full"
+      }
+    },
+    "1660033707ccf6d4c9": {
+      "type": "newsletter",
+      "settings": {
+        "container": "w-full",
+        "background_color": "",
+        "form_layout": "vertical",
+        "form_design": "1",
+        "heading": "Want 10% OFF?",
+        "description": "",
+        "email_placeholder": "Enter your email",
+        "submit_button": "",
+        "text_color": "black",
+        "show_icon": true,
+        "icon_img_width": "30",
+        "show_agreement": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "section__flush-top section__flush-bottom"
+      }
+    },
+    "fb336a58-b0ea-46f4-af59-da4078311972": {
+      "type": "testimonials",
+      "blocks": {
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-1": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-2": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-3": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-4": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-5": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-0",
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-1",
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-2",
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-3",
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-4",
+        "template--18655195529497__fb336a58-b0ea-46f4-af59-da4078311972-168167962676f8582e-5"
+      ],
+      "settings": {
+        "heading": "What People Are Saying",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "w-full",
+        "background_color": "",
+        "design": "testimonials-3",
+        "show_stars": true,
+        "autorotate": true,
+        "show_navigation": true,
+        "show_pagination": false,
+        "star_color": "#ff7e00",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "2b1913d4-3e28-4015-ad71-841a57c3f78e",
+    "16600290314092d80c",
+    "1659587158ce41b7ac",
+    "47b8148f-8361-4b66-9f10-81bb68f94ff9",
+    "16599437071ec5779e",
+    "1660033707ccf6d4c9",
+    "fb336a58-b0ea-46f4-af59-da4078311972"
+  ]
+}
