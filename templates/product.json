@@ -110,7 +110,7 @@
         "09472023-af85-4eae-82d6-5efdda0c901e": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": ""
+            "custom_liquid": "<div class=\"custom-section\">\n  <h2>Order Timeline<\/h2>\n  <ul class=\"order-timeline\">\n    <li>\n      <span class=\"icon\"><i class=\"fas fa-check\"><\/i><\/span>\n      <span class=\"label\">Order Today<\/span>\n      <span class=\"date\">{{ now | date: \"%b %d, %Y\" }}<\/span>\n    <\/li>\n    <li>\n      <span class=\"icon\"><i class=\"fas fa-truck\"><\/i><\/span>\n      <span class=\"label\">Dispatch Date<\/span>\n      <span class=\"date\">{{ now | date_modify: \"+1 day\" | date: \"%b %d, %Y\" }}<\/span>\n    <\/li>\n    <li>\n      <span class=\"icon\"><i class=\"fas fa-check-square\"><\/i><\/span>\n      <span class=\"label\">Delivered After<\/span>\n      <span class=\"date\">{{ now | date_modify: \"+7 days\" | date: \"%b %d, %Y\" }}<\/span>\n    <\/li>\n  <\/ul>\n<\/div>"
           }
         }
       },
