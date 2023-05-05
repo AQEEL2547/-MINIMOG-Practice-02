@@ -34,7 +34,7 @@
         "1e7e9278-824e-4a3a-b776-89cba437271f": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": ""
+            "custom_liquid": "<style>\n  .loox-rating{ margin-top:-25px;}\n<\/style>\n\n \n<style>\n  .prod__live-views {margin-top:-25px;}\n<\/style>"
           }
         },
         "loox-rating": {
@@ -110,7 +110,7 @@
         "09472023-af85-4eae-82d6-5efdda0c901e": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n  .loox-rating{ margin-top:-25px;}\n<\/style>\n\n \n<style>\n  .prod__live-views {margin-top:-25px;}\n<\/style>"
+            "custom_liquid": ""
           }
         }
       },
