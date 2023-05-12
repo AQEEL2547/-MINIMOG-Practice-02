@@ -36,10 +36,10 @@
             "show_saving": true
           }
         },
-        "1e7e9278-824e-4a3a-b776-89cba437271f": {
-          "type": "custom_liquid",
+        "variant_picker": {
+          "type": "variant_picker",
           "settings": {
-            "custom_liquid": "<style>\n  .loox-rating{ margin-top:25px;}\n<\/style>\n\n \n<style>\n  .prod__live-views {margin-top:-25px;}\n<\/style>"
+            "size_title": ""
           }
         },
         "03c4c6f1-65de-452d-8e56-708f6ab0ade7": {
@@ -61,12 +61,6 @@
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<div id=\"random-number\">Hurry up only {{ 'now' | date: \"%s%N\" | modulo: 10 | plus: 6 | max: 10 }} LEFT IN STOCK<\/div>\n<hr class=\"stock-line\">\n\n<style>\n.stock-line {\n  width: 80%;\n  height: 10px;\n  border-radius: 5px;\n  background: linear-gradient(to right, red 20%, #f18701 35%);\n}\n<\/style>\n<script src=\"https:\/\/kit.fontawesome.com\/your-font-awesome-kit-id.js\" crossorigin=\"anonymous\"><\/script>"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "size_title": ""
           }
         },
         "e45efc5c-beeb-441f-b990-92d772f6183c": {
@@ -107,11 +101,10 @@
             "custom_liquid": "<strong style=\"    display: flex; margin: auto; justify-content: center;\n}\"><\/strong>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0010\/0551\/8907\/files\/Trust-Badges.png?12295935339051505962\" style=\"    width: 98%;\n    margin: 0;\">"
           }
         },
-        "09472023-af85-4eae-82d6-5efdda0c901e": {
+        "1e7e9278-824e-4a3a-b776-89cba437271f": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "<div class=\"custom-section\">\n  <h2>Order Timeline<\/h2>\n  <ul class=\"order-timeline\">\n    <li>\n      <span class=\"icon\"><i class=\"fas fa-check\"><\/i><\/span>\n      <span class=\"label\">Order Today<\/span>\n      <span class=\"date\">{{ now | date: \"%b %d, %Y\" }}<\/span>\n    <\/li>\n    <li>\n      <span class=\"icon\"><i class=\"fas fa-truck\"><\/i><\/span>\n      <span class=\"label\">Dispatch Date<\/span>\n      <span class=\"date\">{{ now | date_modify: \"+1 day\" | date: \"%b %d, %Y\" }}<\/span>\n    <\/li>\n    <li>\n      <span class=\"icon\"><i class=\"fas fa-check-square\"><\/i><\/span>\n      <span class=\"label\">Delivered After<\/span>\n      <span class=\"date\">{{ now | date_modify: \"+7 days\" | date: \"%b %d, %Y\" }}<\/span>\n    <\/li>\n  <\/ul>\n<\/div>"
+            "custom_liquid": "<style>\n  .loox-rating{ margin-bottom:-25px;}\n<\/style>\n\n \n<style>\n  .prod__live-views {margin-top:-25px;}\n<\/style>"
           }
         }
       },
@@ -120,17 +113,16 @@
         "title",
         "loox-rating",
         "price",
-        "1e7e9278-824e-4a3a-b776-89cba437271f",
+        "variant_picker",
         "03c4c6f1-65de-452d-8e56-708f6ab0ade7",
         "44dd43e0-d34c-48a6-bada-d4fe8681c5a0",
         "8c106013-5e2b-4526-adf4-d9ad44dfb1ce",
-        "variant_picker",
         "e45efc5c-beeb-441f-b990-92d772f6183c",
         "a727c6f9-2024-409e-ade5-af34df0c3af1",
         "buy_buttons",
         "3fcb4a5a-4500-47bf-aac3-3af2a5997010",
         "8b41b46c-a3b9-4484-9c3a-ac66975525e5",
-        "09472023-af85-4eae-82d6-5efdda0c901e"
+        "1e7e9278-824e-4a3a-b776-89cba437271f"
       ],
       "custom_css": [
         ".sf-prod__info-wrapper {margin-top: 5px;}",
