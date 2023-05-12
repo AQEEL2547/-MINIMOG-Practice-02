@@ -104,7 +104,7 @@
         "1e7e9278-824e-4a3a-b776-89cba437271f": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n  .loox-rating{ margin-bottom:-25px;}\n<\/style>\n\n \n<style>\n  .prod__live-views {margin-top:-25px;}\n<\/style>\n<style>\n.variant-picker__input{\nmargin-top: margin-top: -26px;\n}\n<\/style>"
+            "custom_liquid": "<style>\n  .loox-rating{ margin-bottom:-25px;}\n<\/style>\n\n \n<style>\n  .prod__live-views {margin-top:-25px;}\n<\/style>\n\n\n<style>\n.variant-picker__input{\nmargin-top: margin-top: -26px;\n}\n<\/style>"
           }
         }
       },
