@@ -126,7 +126,8 @@
       ],
       "custom_css": [
         ".sf-prod__info-wrapper {margin-top: 5px;}",
-        ".form__input-wrapper--select {margin-top: -22px;}"
+        ".form__input-wrapper--select {margin-top: -22px;}",
+        ".variant-picker__input {margin-top: -26px;}"
       ],
       "settings": {
         "container": "container",
