@@ -39,7 +39,7 @@
         "1e7e9278-824e-4a3a-b776-89cba437271f": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n  .loox-rating{ margin-top:-25px;}\n<\/style>\n\n \n<style>\n  .prod__live-views {margin-top:-25px;}\n<\/style>"
+            "custom_liquid": "<style>\n  .loox-rating{ margin-top:25px;}\n<\/style>\n\n \n<style>\n  .prod__live-views {margin-top:-25px;}\n<\/style>"
           }
         },
         "03c4c6f1-65de-452d-8e56-708f6ab0ade7": {
