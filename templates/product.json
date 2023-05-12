@@ -25,15 +25,15 @@
           "settings": {
           }
         },
+        "loox-rating": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
             "show_saving": true
-          }
-        },
-        "loox-rating": {
-          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
           }
         },
         "1e7e9278-824e-4a3a-b776-89cba437271f": {
@@ -118,8 +118,8 @@
       "block_order": [
         "848358f2-933f-4fba-a9e9-bf1d1e91f68b",
         "title",
-        "price",
         "loox-rating",
+        "price",
         "1e7e9278-824e-4a3a-b776-89cba437271f",
         "03c4c6f1-65de-452d-8e56-708f6ab0ade7",
         "44dd43e0-d34c-48a6-bada-d4fe8681c5a0",
