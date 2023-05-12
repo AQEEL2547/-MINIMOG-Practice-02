@@ -42,6 +42,13 @@
             "size_title": ""
           }
         },
+        "c104691d-a4b2-4f1a-bbe3-5ef20d5a8d47": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.text.value }}",
+            "text_style": "body"
+          }
+        },
         "03c4c6f1-65de-452d-8e56-708f6ab0ade7": {
           "type": "visitors",
           "settings": {
@@ -114,6 +121,7 @@
         "loox-rating",
         "price",
         "variant_picker",
+        "c104691d-a4b2-4f1a-bbe3-5ef20d5a8d47",
         "03c4c6f1-65de-452d-8e56-708f6ab0ade7",
         "44dd43e0-d34c-48a6-bada-d4fe8681c5a0",
         "8c106013-5e2b-4526-adf4-d9ad44dfb1ce",
