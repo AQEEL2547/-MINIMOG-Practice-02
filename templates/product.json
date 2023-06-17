@@ -28,6 +28,13 @@
         "loox-rating": {
           "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false
           }
         },
         "price": {
@@ -99,13 +106,13 @@
         "3fcb4a5a-4500-47bf-aac3-3af2a5997010": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<strong style=\"    display: flex; margin: auto; justify-content: center;\n}\"><\/strong>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0023\/8344\/6065\/files\/1520221282593_TRUSTBADGE_FINAL.png\" style=\"    width: 98%;\n    margin: 0;\">"
+            "custom_liquid": "<strong style=\"    display: flex; margin: auto; justify-content: center;\n}\"><\/strong>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0023\/8344\/6065\/files\/1520221282593_TRUSTBADGE_FINAL.png\" style=\"    width: 98%;\n    margin: 0;\">\n<strong style=\"    display: flex; margin: auto; justify-content: center;\n}\"><\/strong>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0010\/0551\/8907\/files\/Trust-Badges.png?12295935339051505962\" style=\"    width: 98%;\n    margin: 0;\">"
           }
         },
         "8b41b46c-a3b9-4484-9c3a-ac66975525e5": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<strong style=\"    display: flex; margin: auto; justify-content: center;\n}\"><\/strong>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0010\/0551\/8907\/files\/Trust-Badges.png?12295935339051505962\" style=\"    width: 98%;\n    margin: 0;\">"
+            "custom_liquid": ""
           }
         },
         "1e7e9278-824e-4a3a-b776-89cba437271f": {
